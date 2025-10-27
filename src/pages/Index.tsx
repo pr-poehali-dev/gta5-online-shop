@@ -298,8 +298,8 @@ const Index = () => {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
             {news.map(item => (
               <Card key={item.id} className="bg-card border-primary/20 hover:border-primary/50 transition-all hover:scale-105 overflow-hidden">
-                <div className="h-48 overflow-hidden bg-black flex items-center justify-center">
-                  <img src={item.image} alt={item.title} className="w-full h-full object-contain hover:scale-110 transition-transform duration-300" />
+                <div className="h-48 overflow-hidden">
+                  <img src={item.image} alt={item.title} className="w-full h-full object-cover hover:scale-110 transition-transform duration-300" />
                 </div>
                 <CardHeader>
                   <CardTitle className="font-heading text-foreground">{item.title}</CardTitle>
