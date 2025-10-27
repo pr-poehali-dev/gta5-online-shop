@@ -94,19 +94,19 @@ const Index = () => {
       id: 1,
       title: 'Обновление 2.5: Новые фракции',
       date: '25 октября 2025',
-      image: 'https://cdn.poehali.dev/files/4146969c-4366-4512-86a4-713736e3d4e9.png'
+      image: 'https://cdn.poehali.dev/projects/526d5885-3b45-4d65-8ed1-4b7db251ba84/files/7fa08559-c8f5-4eb9-8950-35b093ca74d7.jpg'
     },
     {
       id: 2,
       title: 'Акция: Скидка 30% на VIP',
       date: '20 октября 2025',
-      image: 'https://cdn.poehali.dev/files/4146969c-4366-4512-86a4-713736e3d4e9.png'
+      image: 'https://cdn.poehali.dev/projects/526d5885-3b45-4d65-8ed1-4b7db251ba84/files/dcd552e2-d22f-4e0f-a0e8-a4a14545b86f.jpg'
     },
     {
       id: 3,
       title: 'Турнир по гонкам: Призы 100к',
       date: '15 октября 2025',
-      image: 'https://cdn.poehali.dev/files/4146969c-4366-4512-86a4-713736e3d4e9.png'
+      image: 'https://cdn.poehali.dev/projects/526d5885-3b45-4d65-8ed1-4b7db251ba84/files/dbd83c06-c677-45d5-a8a7-8ba0b8f9a747.jpg'
     }
   ];
 
