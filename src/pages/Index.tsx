@@ -100,7 +100,7 @@ const Index = () => {
       id: 2,
       title: 'Акция: Скидка 30% на VIP',
       date: '20 октября 2025',
-      image: 'https://cdn.poehali.dev/files/cb3800d5-7e1a-482d-a0f2-88af07f270b5.png'
+      image: 'https://cdn.poehali.dev/files/db829de9-4472-4115-91fe-447e848cf6c5.png'
     },
     {
       id: 3,
@@ -298,8 +298,8 @@ const Index = () => {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
             {news.map(item => (
               <Card key={item.id} className="bg-card border-primary/20 hover:border-primary/50 transition-all hover:scale-105 overflow-hidden">
-                <div className="h-48 overflow-hidden">
-                  <img src={item.image} alt={item.title} className="w-full h-full object-cover hover:scale-110 transition-transform duration-300" />
+                <div className="h-48 overflow-hidden bg-black flex items-center justify-center">
+                  <img src={item.image} alt={item.title} className="w-full h-full object-contain hover:scale-110 transition-transform duration-300" />
                 </div>
                 <CardHeader>
                   <CardTitle className="font-heading text-foreground">{item.title}</CardTitle>
