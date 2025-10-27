@@ -94,7 +94,7 @@ const Index = () => {
       id: 1,
       title: 'Обновление 2.5: Новые фракции',
       date: '25 октября 2025',
-      image: 'https://cdn.poehali.dev/projects/526d5885-3b45-4d65-8ed1-4b7db251ba84/files/7fa08559-c8f5-4eb9-8950-35b093ca74d7.jpg'
+      image: 'https://cdn.poehali.dev/files/6f9311bc-dac4-4136-9d94-a1534e728975.jpg'
     },
     {
       id: 2,
