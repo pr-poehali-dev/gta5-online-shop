@@ -18,7 +18,7 @@ const Index = () => {
   const shopItems = [
     {
       id: 1,
-      name: '1000 Виртов',
+      name: '100 000 Виртов',
       price: '99 ₽',
       description: 'Игровая валюта для покупок на сервере',
       icon: 'Coins',
@@ -26,7 +26,7 @@ const Index = () => {
     },
     {
       id: 2,
-      name: '5000 Виртов',
+      name: '1 000 000 Виртов',
       price: '449 ₽',
       description: 'Выгодное предложение для активных игроков',
       icon: 'Wallet',
@@ -60,7 +60,7 @@ const Index = () => {
       id: 6,
       name: 'Starter Pack',
       price: '299 ₽',
-      description: '3000 виртов + VIP Bronze + бонусы',
+      description: '300 000 виртов + VIP Bronze + бонусы',
       icon: 'Package',
       badge: 'Хит'
     }
