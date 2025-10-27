@@ -148,7 +148,7 @@ const Index = () => {
             <h1 className="text-7xl md:text-8xl font-heading font-bold">
               <span className="text-primary animate-glow italic">ИГРАЙ В</span>
               <br />
-              <span className="text-white">GTA 5</span>
+              <span className="text-white">ROUSE RP</span>
               <br />
               <span className="text-secondary italic">ПРО РОССИЮ</span>
             </h1>
