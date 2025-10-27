@@ -100,7 +100,7 @@ const Index = () => {
       id: 2,
       title: 'Акция: Скидка 30% на VIP',
       date: '20 октября 2025',
-      image: 'https://cdn.poehali.dev/files/db829de9-4472-4115-91fe-447e848cf6c5.png'
+      image: 'https://cdn.poehali.dev/files/f18774c6-444f-456e-95ed-6530b34aa603.png'
     },
     {
       id: 3,
