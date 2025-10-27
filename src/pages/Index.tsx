@@ -116,7 +116,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-8">
-              <h1 className="text-2xl font-heading font-bold text-primary animate-glow">RMRP</h1>
+              <h1 className="text-2xl font-heading font-bold text-primary animate-glow">ROUSE RP</h1>
               <div className="hidden md:flex gap-6">
                 <a href="#about" className="text-foreground/80 hover:text-primary transition-colors">Авто</a>
                 <a href="#services" className="text-foreground/80 hover:text-primary transition-colors">Фракции</a>
@@ -339,7 +339,7 @@ const Index = () => {
         <div className="container mx-auto">
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
-              <h3 className="font-heading font-bold text-primary text-xl mb-4">RMRP</h3>
+              <h3 className="font-heading font-bold text-primary text-xl mb-4">ROUSE RP</h3>
               <p className="text-muted-foreground">Лучший русскоязычный GTA 5 RP сервер</p>
             </div>
             <div>
@@ -371,7 +371,7 @@ const Index = () => {
             </div>
           </div>
           <div className="pt-8 border-t border-primary/20 text-center text-muted-foreground">
-            <p>© 2025 RMRP. Все права защищены.</p>
+            <p>© 2025 ROUSE RP. Все права защищены.</p>
           </div>
         </div>
       </footer>
