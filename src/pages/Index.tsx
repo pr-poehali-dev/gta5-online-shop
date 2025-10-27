@@ -146,7 +146,11 @@ const Index = () => {
         <div className="container mx-auto relative z-10">
           <div className="max-w-4xl mx-auto text-center space-y-8 animate-fade-in">
             <h1 className="text-7xl md:text-8xl font-heading font-bold">
-              <span className="text-primary animate-glow italic">ROUSE RP</span>
+              <span className="text-primary animate-glow italic">ИГРАЙ В</span>
+              <br />
+              <span className="text-white">GTA 5</span>
+              <br />
+              <span className="text-secondary italic">ПРО РОССИЮ</span>
             </h1>
             <div className="flex items-center justify-center gap-3 text-lg">
               <div className="h-px w-16 bg-primary"></div>
